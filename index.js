@@ -16,5 +16,5 @@ b=Number(b);
 
 c=Math.sqrt (Math.pow(a,2)+ Math.pow(b,2));
 
-document.getElementById("clabel").innerHTML = "Side C: " +c;
+document.getElementById("clabel").innerHTML = "Side C " +c;
 }
